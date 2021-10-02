@@ -1,0 +1,4 @@
+resources:
+ - type: "file"
+   name: "/etc/motd"
+   content: "eric cartman is a fat bitch"
