@@ -14,3 +14,4 @@ run_list 'base::default'
 
 # Specify a custom source for a single cookbook:
 cookbook 'base', path: '.'
+cookbook 'hardening', path: '../hardening'
